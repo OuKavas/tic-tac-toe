@@ -71,10 +71,6 @@ namespace TicTacToe
 
         static int CheckWin()
         {
-            // Check for winning conditions (horizontal, vertical, and diagonal)
-            // Return 1 if someone wins, -1 if it's a draw, or 0 if the game is still ongoing.
-            // Implement your logic here.
-            // ...
             return 0;
         }
     }
